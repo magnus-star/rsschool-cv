@@ -3,10 +3,8 @@
 ## Junior Frontend Developer
 
 ### Contact
-
-
-E-mail: host513@gmail.com
-Telegram: @nullOn
+- E-mail: host513@gmail.com
+- Telegram: @nullOn
 
 ### Skills and Proficiency:
 - HTML5, CSS3
