@@ -1,1 +1,1 @@
-# rsschool-cvcd
+https://magnus-star.github.io/rsschool-cv/cv
