@@ -15,3 +15,8 @@
 
 ### Courses:
 - RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+### Languages:
+- English - Intermediate/Upper-intermediate 
+- Ukraine - Native
+- Polish - Elementary
